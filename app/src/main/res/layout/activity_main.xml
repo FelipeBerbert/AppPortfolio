@@ -68,7 +68,7 @@
         android:layout_margin="10dp"
         android:padding="10dp"
         android:background="@color/udacious"
-        android:layout_below="@+id/btn_library"
+        android:layout_below="@+id/btn_bigger"
         android:onClick="sendMessage"
         android:layout_centerHorizontal="true" />
     <Button
